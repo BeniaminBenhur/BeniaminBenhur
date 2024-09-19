@@ -6,8 +6,18 @@ Hi, I'm Ben. Data Analyst with expertise in cleaning, analyzing and visualizing 
 - Developing dashboards using Tableau and Power BI
 
 
+## Projects 📚
+This is my portofolio, where I showcase all of my work.
 
 
+## Tools ⚙
+- Language: <SQLPython>
+- Database:
+- Visualization: Power Bi, Tableau
+- Analysis: Excel
+
+## Connect with Me
+[Linkedin](www.linkedin.com/in/man-beniamin-716046247)
 
 <!--
 **BeniaminBenhur/BeniaminBenhur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

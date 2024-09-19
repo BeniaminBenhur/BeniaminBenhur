@@ -17,7 +17,7 @@ This is my portofolio, where I showcase all of my work.
 - Analysis: Excel
 
 ## Connect with Me
-[Linkedin](www.linkedin.com/in/man-beniamin-716046247)
+[Linkedin](https://www.linkedin.com/in/man-beniamin-716046247/)
 
 <!--
 **BeniaminBenhur/BeniaminBenhur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

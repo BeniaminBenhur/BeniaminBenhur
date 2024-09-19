@@ -1,4 +1,11 @@
-## Hi there 👋
+# Data Analyst 💻
+
+Hello everybody, my name is Ben and, as you can see from the title, I'm a data analyst.
+
+
+
+
+
 
 <!--
 **BeniaminBenhur/BeniaminBenhur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

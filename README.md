@@ -3,7 +3,7 @@
 Hi, I'm Ben. Data Analyst with expertise in cleaning, analyzing and visualizing data using MS Excel, Power BI,
 
 - Data analysis and reporting Excel
-- Developing dashboards on Tableau and Power BI
+- Developing dashboards using Tableau and Power BI
 
 
 

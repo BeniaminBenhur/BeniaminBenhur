@@ -1,7 +1,9 @@
-# Data Analyst 💻
+# Introducing myself 👋
 
-Hello everybody, my name is Ben and, as you can see from the title, I'm a data analyst.
+Hi, I'm Ben. Data Analyst with expertise in cleaning, analyzing and visualizing data using MS Excel, Power BI,
 
+- Data analysis and reporting Excel
+- Developing dashboards on Tableau and Power BI
 
 
 

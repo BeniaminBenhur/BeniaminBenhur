@@ -16,7 +16,7 @@ This is my portofolio, where I showcase all of my work.
 - Visualization: Power Bi, Tableau
 - Analysis: Excel
 
-## Connect with Me
+## Connect with Me 😊
 - [Linkedin](https://www.linkedin.com/in/man-beniamin-716046247/)
 
 <!--
